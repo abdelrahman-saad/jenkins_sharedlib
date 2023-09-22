@@ -1,0 +1,4 @@
+@Library('mylibrary')_
+ stage('install nginx') {
+     echo 'installing nginx package'
+ }
